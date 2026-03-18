@@ -5,7 +5,7 @@ This project analyzes how the AZG gold fund tracks the underlying price of gold 
 
 ## 🔗 Live Dashboard
 Interactive visualization:
-https://yourusername.github.io/azg-tracking-analysis/
+[Link to dashboard](https://abdomostafa-cyber.github.io/azg-dashboard/)
 
 ---
 
